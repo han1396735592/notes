@@ -6,7 +6,7 @@
 > - [mysql](mysql/index.md)
 > - [java](java/index.md)
 > - [spring](spring/index.md)
-> - [spring boot](./spring boot/index.md)
-> - [spring cloud](./spring cloud/index.md)
+> - [spring boot](spring boot/index.md)
+> - [spring cloud](spring cloud/index.md)
 > - [docker](docker/index.md)
 
