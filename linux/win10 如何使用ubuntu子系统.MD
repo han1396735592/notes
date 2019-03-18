@@ -54,3 +54,4 @@ LANGUAGE="zh_CN:zh"
 ```shell
 sudo apt-get install ttf-wqy-microhei  
 ```
+
